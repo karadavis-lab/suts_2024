@@ -1,0 +1,13 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "n",
+        "channel",
+        "marker",
+        "$PnB",
+        "$PnE",
+        "$PnR"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}

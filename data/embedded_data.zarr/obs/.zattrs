@@ -1,0 +1,11 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "OmiqFileIndex",
+        "cell_type",
+        "patient",
+        "cell_type_patient"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}

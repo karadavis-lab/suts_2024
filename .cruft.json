@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/scverse/cookiecutter-scverse",
+  "commit": "2416b0e5bbeef45602a0da421eb839883d17c212",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "vitessce_suts",
+      "package_name": "vitessce_suts",
+      "project_description": "A very interesting piece of code",
+      "author_full_name": "Your Name",
+      "author_email": "yourname@example.com",
+      "github_user": "your_github_username",
+      "project_repo": "https://github.com/your_github_username/vitessce_suts",
+      "license": "MIT License",
+      "_copy_without_render": [
+        ".github/workflows/build.yaml",
+        ".github/workflows/test.yaml",
+        "docs/_templates/autosummary/**.rst"
+      ],
+      "_render_devdocs": false,
+      "_jinja2_env_vars": {
+        "lstrip_blocks": true,
+        "trim_blocks": true
+      },
+      "_template": "https://github.com/scverse/cookiecutter-scverse"
+    }
+  },
+  "directory": null
+}
