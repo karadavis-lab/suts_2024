@@ -23,4 +23,4 @@
 
     **Currently we recommend just running the vitessce notebook as the data is already preprocessed for ingestion.**
 
-6. [Spline Visualization](https://my.spline.design/untitled-4ecf0f6c0adefbc8eddf0f602bd8e134/)
+6. [Spline Visualization](https://my.spline.design/scienceunderthestars2024-4d34dafe82fee4fe1a0edab344f69572/)
