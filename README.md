@@ -12,50 +12,20 @@ A very interesting piece of code
 ## Setting up
 
 1. Clone the repository:
-    ```zsh
-        git clone https://github.com/karadavis-lab/suts_2024.git
-    ```
 
-Please refer to the [documentation][link-docs]. In particular, the
-
--   [API documentation][link-api].
-
-## Installation
-
-You need to have Python 3.9 or newer installed on your system. If you don't have
-Python installed, we recommend installing [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge).
-
-There are several alternative options to install vitessce_suts:
-
-<!--
-1) Install the latest release of `vitessce_suts` from `PyPI <https://pypi.org/project/vitessce_suts/>`_:
-
-```bash
-pip install vitessce_suts
-```
--->
-
-1. Install the latest development version:
-
-```bash
-pip install git+https://github.com/your_github_username/vitessce_suts.git@main
+```zsh
+    git clone https://github.com/karadavis-lab/suts_2024.git
 ```
 
-## Release notes
+2. Ensure you have Conda / Anaconda Installed, we recommend installing [Miniforge](https://github.com/conda-forge/miniforge). 3.`cd` into `suts_2024` and create the conda environment with
 
-See the [changelog][changelog].
+```zsh
+    conda env create -f environment.yml
+```
 
-## Contact
+4. Activate the environment with `conda activate suts`
+5. There are two notebooks which can be run in the `scripts` directory:
 
-For questions and help requests, you can reach out in the [scverse discourse][scverse-discourse].
-If you found a bug, please use the [issue tracker][issue-tracker].
+    1. `process_fcs.ipynb` if you would like to reproduce the data for vitessce. 2.`vitessce.ipynb` is the notebook for running the visualization.
 
-## Citation
-
-> t.b.a
-
-[scverse-discourse]: https://discourse.scverse.org/
-[issue-tracker]: https://github.com/your_github_username/vitessce_suts/issues
-[changelog]: https://vitessce_suts.readthedocs.io/latest/changelog.html
-[link-docs]: https://vitessce_suts.readthedocs.io
-[link-api]: https://vitessce_suts.readthedocs.io/latest/api.html
+    **Currently we recommend just running the vitessce notebook as teh data is already preprocessed for ingestion.**
