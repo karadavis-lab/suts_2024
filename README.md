@@ -13,7 +13,7 @@ A very interesting piece of code
 
 1. Clone the repository:
     ```zsh
-        git clone
+        git clone https://github.com/karadavis-lab/suts_2024.git
     ```
 
 Please refer to the [documentation][link-docs]. In particular, the
