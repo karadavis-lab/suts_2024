@@ -9,7 +9,12 @@
 
 A very interesting piece of code
 
-## Getting started
+## Setting up
+
+1. Clone the repository:
+    ```zsh
+        git clone
+    ```
 
 Please refer to the [documentation][link-docs]. In particular, the
 
