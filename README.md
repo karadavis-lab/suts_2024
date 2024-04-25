@@ -20,4 +20,4 @@
     1. `process_fcs.ipynb` if you would like to reproduce the data for vitessce.
     2. `vitessce.ipynb` is the notebook for running the visualization.
 
-    **Currently we recommend just running the vitessce notebook as teh data is already preprocessed for ingestion.**
+    **Currently we recommend just running the vitessce notebook as the data is already preprocessed for ingestion.**
