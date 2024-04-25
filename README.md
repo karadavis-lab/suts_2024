@@ -22,3 +22,5 @@
     2. `vitessce.ipynb` is the notebook for running the visualization.
 
     **Currently we recommend just running the vitessce notebook as the data is already preprocessed for ingestion.**
+
+6. [Spline Visualization](https://my.spline.design/untitled-4ecf0f6c0adefbc8eddf0f602bd8e134/)
