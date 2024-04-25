@@ -1,14 +1,5 @@
 # vitessce_suts
 
-[![Tests][badge-tests]][link-tests]
-[![Documentation][badge-docs]][link-docs]
-
-[badge-tests]: https://img.shields.io/github/actions/workflow/status/your_github_username/vitessce_suts/test.yaml?branch=main
-[link-tests]: https://github.com/your_github_username/vitessce_suts/actions/workflows/test.yml
-[badge-docs]: https://img.shields.io/readthedocs/vitessce_suts
-
-A very interesting piece of code
-
 ## Setting up
 
 1. Clone the repository:
