@@ -27,6 +27,6 @@ A very interesting piece of code
 5. There are two notebooks which can be run in the `scripts` directory:
 
     1. `process_fcs.ipynb` if you would like to reproduce the data for vitessce.
-    2. 2.`vitessce.ipynb` is the notebook for running the visualization.
+    2. `vitessce.ipynb` is the notebook for running the visualization.
 
     **Currently we recommend just running the vitessce notebook as teh data is already preprocessed for ingestion.**
