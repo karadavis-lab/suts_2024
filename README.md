@@ -8,7 +8,8 @@
     git clone https://github.com/karadavis-lab/suts_2024.git
 ```
 
-2. Ensure you have Conda / Anaconda Installed, we recommend installing [Miniforge](https://github.com/conda-forge/miniforge). 3.`cd` into `suts_2024` and create the conda environment with
+2. Ensure you have Conda / Anaconda Installed, we recommend installing [Miniforge](https://github.com/conda-forge/miniforge).
+3. `cd` into `suts_2024` and create the conda environment with
 
 ```zsh
     conda env create -f environment.yml
